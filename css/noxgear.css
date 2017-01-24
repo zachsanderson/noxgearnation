@@ -505,7 +505,7 @@ fieldset[disabled] .btn-primary.active {
   border-width: 3px;
 }
 #mc_embed_signup .button {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  
   border-radius: 300px;
   font-weight: 700;
   border-color: white;
@@ -517,8 +517,12 @@ fieldset[disabled] .btn-primary.active {
 #mc_embed_signup .button:hover {
   background-color: #F05F40;
 }
+#mc_embed_signup .mc-field-group select,input {
+  color: black;
+}
 #mc_embed_signup form {
   padding-left: 0;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 .btn-xl {
   padding: 10px 30px;
