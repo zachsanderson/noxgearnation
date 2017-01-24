@@ -247,8 +247,8 @@ header .header-content .header-content-inner p {
     background-color: black;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
-    padding-top: 150px;
-    min-height: 1000px;
+    padding-top: 75px;
+    min-height: 1200px;
 }
 #signup {
   max-width: 700px;
