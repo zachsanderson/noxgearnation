@@ -243,12 +243,12 @@ header .header-content .header-content-inner p {
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center bottom;
+    background-position: center top;
     background-color: black;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
     padding-top: 75px;
-    min-height: 1200px;
+    min-height: 1050px;
 }
 #signup {
   max-width: 700px;
@@ -519,6 +519,8 @@ fieldset[disabled] .btn-primary.active {
 }
 #mc_embed_signup .mc-field-group select,input {
   color: black;
+  padding: 8px 0;
+  height: 30px;
 }
 #mc_embed_signup form {
   padding-left: 0;
