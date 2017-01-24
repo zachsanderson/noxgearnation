@@ -237,6 +237,22 @@ header .header-content .header-content-inner p {
   font-size: 16px;
   margin-bottom: 50px;
 }
+#signupjumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/grouprun.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-color: black;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    padding-top: 150px;
+    min-height: 1000px;
+}
+#signup {
+  max-width: 700px;
+}
 #jumbotron .jumbotron {
     margin-bottom: 0px;
     background-image: url(../img/jumbotronbackground.jpg);
@@ -488,12 +504,33 @@ fieldset[disabled] .btn-primary.active {
   text-transform: uppercase;
   border-width: 3px;
 }
+#mc_embed_signup .button {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  border-radius: 300px;
+  font-weight: 700;
+  border-color: white;
+  border: 3px solid;
+  height: 45px;
+  background-color: #777;
+
+}
+#mc_embed_signup .button:hover {
+  background-color: #F05F40;
+}
+#mc_embed_signup form {
+  padding-left: 0;
+}
 .btn-xl {
   padding: 10px 30px;
 }
-#playvideo {
-  padding: 20px 30px;
-  font-size: 20px;
+.infobutton {
+  /*padding: 20px 30px;
+  font-size: 20px;*/
+  width: 290px;
+  margin: 5px;
+}
+#infobuttonrow {
+  padding-right: 3%;
 }
 ::-moz-selection {
   color: white;
