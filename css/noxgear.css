@@ -526,14 +526,17 @@ fieldset[disabled] .btn-primary.active {
   padding-left: 0;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+.terms {
+  font-size: 90%;
+}
 .btn-xl {
   padding: 10px 30px;
 }
 .infobutton {
   /*padding: 20px 30px;
   font-size: 20px;*/
-  width: 290px;
-  margin: 5px;
+  width: 200px;
+  margin: 10px;
 }
 #infobuttonrow {
   padding-right: 3%;
