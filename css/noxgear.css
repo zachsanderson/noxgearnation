@@ -511,11 +511,11 @@ fieldset[disabled] .btn-primary.active {
   border-color: white;
   border: 3px solid;
   height: 45px;
-  background-color: #777;
+  background-color: #F05F40;
 
 }
 #mc_embed_signup .button:hover {
-  background-color: #F05F40;
+  background-color: #ca3111;
 }
 #mc_embed_signup .mc-field-group select,input {
   color: black;
@@ -540,6 +540,7 @@ fieldset[disabled] .btn-primary.active {
 }
 #infobuttonrow {
   padding-right: 3%;
+  padding-top: 50px;
 }
 ::-moz-selection {
   color: white;
