@@ -519,8 +519,8 @@ fieldset[disabled] .btn-primary.active {
 }
 #mc_embed_signup .mc-field-group select,input {
   color: black;
-  padding: 5px 0;
-  height: 30px;
+  padding: 8px 0;
+  height: 35px;
 }
 #mc_embed_signup form {
   padding-left: 0;
